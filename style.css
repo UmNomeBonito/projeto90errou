@@ -1,0 +1,11 @@
+body {
+background: rgb(61, 47, 255);
+}
+
+#div_de_nome1, #div_de_nome2
+{
+    background: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 15px;
+    width: 30%;
+}
